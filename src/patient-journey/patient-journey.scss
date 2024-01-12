@@ -1,0 +1,38 @@
+@use "@carbon/styles/scss/type";
+@import "~@openmrs/esm-styleguide/src/vars";
+
+$primaryColor: #0f62fe;
+
+.blue {
+  color: $primaryColor;
+  margin-right: 0.125rem;
+}
+
+.patientJourney {
+  justify-content: space-between;
+  align-items: center;
+  background-color: $ui-02;
+  padding: 1rem 3rem 3rem 3rem;
+}
+
+.patientJourney {
+  width: 100%;
+  height: 100%;
+}
+
+.responsiveContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column {
+  width: 100%;
+  flex: 1;
+  min-width: 300px;
+}
+
+@media (min-width: 768px) {
+  .column {
+    width: 50%;
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "patientJourney": "Recorrido del Paciente",
+    "endVisit": "Fin de la Visita",
+    "activeVisit": "Visita Activa",
+    "numberOfTotalDone": "{{number}} de {{total}} encuentro(s) posible(s) realizado(s).",
+    "status": "Estado",
+    "currentVisitSuggestedActions": "Acciones Sugeridas para la Visita Actual"
+}
