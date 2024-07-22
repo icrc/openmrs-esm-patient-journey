@@ -1,0 +1,8 @@
+{
+  "patientJourney": "Patient Journey",
+  "endVisit": "End Visit",
+  "activeVisit": "active visit",
+  "numberOfTotalDone": "{{number}} of {{total}} possible encounter(s) done.",
+  "status": "Status",
+  "currentVisitSuggestedActions": "Current visit suggested actions"
+}

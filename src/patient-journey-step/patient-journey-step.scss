@@ -1,0 +1,31 @@
+@use "@carbon/styles/scss/type";
+@import "~@openmrs/esm-styleguide/src/vars";
+
+.step, .highlightedStep {
+  border-left: 0.3rem dotted $interactive-01;
+  height: 4.7rem;
+  overflow-wrap: break-word;
+  padding-left: 0.625rem;
+  padding-top: 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1;
+  display: flex;
+}
+
+.highlightedStep {
+  border-left-style: solid;
+}
+
+.icon {
+  width: 30px;
+  margin-right: 0.5rem;
+}
+
+.highlight {
+  font-weight: bold;
+}
+
+.stepStatus {
+  color: $ui-04;
+  padding-top: 6px;
+}

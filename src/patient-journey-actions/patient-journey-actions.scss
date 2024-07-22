@@ -1,0 +1,22 @@
+@use "@carbon/styles/scss/type";
+@import "~@openmrs/esm-styleguide/src/vars";
+
+$primaryColor: #0f62fe;
+
+.journeyAction {
+  margin-right: 0.125rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+
+.icon {
+  width: 30px;
+  margin-right: 0.5rem;
+}
+
+.action {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0.75rem;
+}
