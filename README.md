@@ -1,3 +1,7 @@
+
+# <span style="color: red;">⚠️ Archived and Unmaintained Repository</span>
+
+--- 
 # OpenMRS Patient Journey App
 
 A microfrontend module that enhances the OpenMRS experience by providing a configurable widget for patient journeys.
